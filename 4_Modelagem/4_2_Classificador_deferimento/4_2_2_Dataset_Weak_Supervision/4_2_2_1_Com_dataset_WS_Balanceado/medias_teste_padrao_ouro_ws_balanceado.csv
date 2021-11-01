@@ -1,0 +1,8 @@
+Classificador,Acurácia,F1 macro,Precisão macro,Revocação macro,F1 micro,Precisão micro,Revocação micro
+Rocchio classifier,"0.689","0.5658","0.6361","0.7606","0.689","0.689","0.689"
+Gradient Boosting Classifier,"0.946","0.8475","0.8049","0.9446","0.946","0.946","0.946"
+Naive Bayes,"0.748","0.6009","0.6401","0.7957","0.748","0.748","0.748"
+K-nearest Neighbor,"0.741","0.5826","0.5963","0.6705","0.741","0.741","0.741"
+Support Vector Machine (SVM),"0.942","0.8179","0.776","0.9271","0.942","0.942","0.942"
+Decision Tree,"0.944","0.8441","0.7977","0.9599","0.944","0.944","0.944"
+Random Forest,"0.956","0.8684","0.8201","0.9692","0.956","0.956","0.956"
