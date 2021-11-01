@@ -1,0 +1,15 @@
+setup.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/desktop.ini
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
+trt4/__init__.py
+trt4/items.py
+trt4/middlewares.py
+trt4/pipelines.py
+trt4/settings.py
+trt4/spiders/__init__.py
+trt4/spiders/trt4_inteiro_teor_spider.py
+trt4/spiders/trt4_spider.py
